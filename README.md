@@ -72,10 +72,7 @@ Voice narration integration
 
 📜 License
 
+MIT License – feel free to use, modify, and share.
+
 
 ---
-
-This README is **short, professional, and recruiter/client-friendly**.  
-Do you also want me to make a **more detailed version (long README with screenshots, API docs, etc.)** for when you showcase it in your portfolio, or should we keep it **compressed only** for now?
-
-
