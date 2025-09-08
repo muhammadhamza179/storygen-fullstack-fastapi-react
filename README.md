@@ -35,7 +35,7 @@ An AI-powered interactive story generator built with **FastAPI (backend)** and *
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/ai-story-generator-fullstack.git
+git clone https://github.com/muhammadhamza179/storygen-fullstack-fastapi-react.git
 cd ai-story-generator-fullstack
 
 2. Backend (FastAPI)
